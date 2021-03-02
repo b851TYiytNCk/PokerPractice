@@ -1,2 +1,2 @@
 # Poker Combos
-A simple page with JavaScript functions to detect a poker game combinations in a JS object inside a script file.
+JavaScript functions to detect poker card combinations inside a JS object.
